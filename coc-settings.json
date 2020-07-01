@@ -1,0 +1,5 @@
+{
+  "vetur.validation.template": false,
+  "vetur.useWorkspaceDependencies": true,
+  "vetur.trace.server": "verbose"
+}
