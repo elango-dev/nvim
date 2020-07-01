@@ -28,6 +28,15 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   " Terminals to run things
   Plug 'voldikss/vim-floaterm'
 
+  " Vim Utils - Nouns and verbs
+  Plug 'tpope/vim-repeat'
+  Plug 'tpope/vim-surround'
+  Plug 'tpope/vim-commentary'
+  Plug 'justinmk/vim-sneak'
+  Plug 'tommcdo/vim-exchange'
+  Plug 'vim-scripts/ReplaceWithRegister'
+  Plug 'vim-scripts/argtextobj.vim'
+
 call plug#end()
 
 " g Leader key
