@@ -1,5 +1,4 @@
 nnoremap <leader>ff :Files<CR>
-nnoremap <leader>fb :Buffers<CR>
 nnoremap <leader>fg :RG<CR>
 nnoremap <leader>fm :Marks<CR>
 

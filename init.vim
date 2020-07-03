@@ -36,6 +36,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'tommcdo/vim-exchange'
   Plug 'vim-scripts/ReplaceWithRegister'
   Plug 'vim-scripts/argtextobj.vim'
+  Plug 'unblevable/quick-scope'
 
 call plug#end()
 
@@ -69,6 +70,7 @@ source $HOME/.config/nvim/startify-settings.vim
 
 " Fold with syntax
 set foldmethod=syntax
+set foldlevelstart=2
 
 set showtabline=2
 
